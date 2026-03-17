@@ -1,0 +1,31 @@
+id,name,name_ru,country,models,year
+BMW,BMW,БМВ,Germany,X5,2020
+BMW,BMW,БМВ,Germany,X3,2020
+BMW,BMW,БМВ,Germany,3 Series,2020
+AUDI,Audi,Ауди,Germany,A4,2021
+AUDI,Audi,Ауди,Germany,A6,2021
+AUDI,Audi,Ауди,Germany,Q5,2021
+MERCEDES,Mercedes-Benz,Мерседес-Бенц,Germany,C-Class,2023
+MERCEDES,Mercedes-Benz,Мерседес-Бенц,Germany,E-Class,2023
+MERCEDES,Mercedes-Benz,Мерседес-Бенц,Germany,GLE,2023
+NISSAN,Nissan,Ниссан,Japan,X-Trail,2021
+NISSAN,Nissan,Ниссан,Japan,Qashqai,2021
+NISSAN,Nissan,Ниссан,Japan,Altima,2021
+HONDA,Honda,Хонда,Japan,Accord,2019
+HONDA,Honda,Хонда,Japan,CR-V,2019
+TOYOTA,Toyota,Тойота,Japan,RAV4,2023
+TOYOTA,Toyota,Тойота,Japan,Corolla,2023
+TOYOTA,Toyota,Тойота,Japan,Camry,2023
+HONDA,Honda,Хонда,Japan,Civic,2019
+VAZ,LADA (ВАЗ),Лада,Russia,Vesta,2022
+VAZ,LADA (ВАЗ),Лада,Russia,Granta,2022
+VAZ,LADA (ВАЗ),Лада,Russia,Niva,2022
+VOLVO,Volvo,Вольво,Sweden,XC90,2023
+VOLVO,Volvo,Вольво,Sweden,XC60,2023
+VOLVO,Volvo,Вольво,Sweden,S60,2023
+FORD,Ford,Форд,Usa,Focus,2020
+FORD,Ford,Форд,Usa,Mustang,2020
+FORD,Ford,Форд,Usa,Explorer,2020
+CHEVROLET,Chevrolet,Шевроле,Usa,Malibu,2021
+CHEVROLET,Chevrolet,Шевроле,Usa,Camaro,2021
+CHEVROLET,Chevrolet,Шевроле,Usa,Tahoe,2021
